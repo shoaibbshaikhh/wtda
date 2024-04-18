@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Raj</name>
+        <age>20</age>
+        <grade>A+</grade>
+        <city>Nashik</city>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Sankalp</name>
+        <age>22</age>
+        <grade>A+</grade>
+        <city>Mumbai</city>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Gayatri</name>
+        <age>21</age>
+        <grade>B</grade>
+        <city>Pune</city>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Suresh</name>
+        <age>19</age>
+        <grade>B+</grade>
+        <city>Nagpur</city>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Manas</name>
+        <age>21</age>
+        <grade>A+</grade>
+        <city>Mumbai</city>
+    </student>
+</students>
